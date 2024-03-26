@@ -1,3 +1,3 @@
 # aula-repositorio-fabio
 
-# Este repositório foi criado na aula de desenvolvimento ágil
+# Este repositÃ³rio foi criado na aula de desenvolvimento Ã¡gil :)
